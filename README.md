@@ -4,6 +4,8 @@
 
 Este proyecto consiste en una aplicación para visualizar fotos del rover de Marte, utilizando la API de la NASA. La aplicación permite seleccionar y mostrar imágenes capturadas por el rover Curiosity, según la cámara específica elegida.
 
+![Vista previa de la aplicación](VisualMars.png)
+
 ## Características
 
 - Selección de rover y cámara para visualizar fotos.
